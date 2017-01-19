@@ -1,0 +1,193 @@
+<resources>
+
+    <string name="app_name">QuizzWizzApp</string>
+
+/*Question 1 questions and answers*/
+    <string name="question1.1">In music, how many notes are there on the chromatic scale?</string>
+    <string name="answer1.1.1">21</string>
+    <string name="answer1.1.2">12</string>
+    <string name="answer1.1.3">32</string>
+    <string name="answer1.1.4">100</string>
+
+    <string name="question1.2">Which children\'s novel opens up with the line \'Where\'s papa going with that axe\'?</string>
+    <string name="answer1.2.1">Finding Nemo</string>
+    <string name="answer1.2.2">The Wizard of Oz</string>
+    <string name="answer1.2.3">Charlotte\'s web</string>
+    <string name="answer1.2.4">David Copperfield</string>
+
+    <string name="question1.3">What is the surname of the Simpson\'s long time neighbours in the American sitcom?</string>
+    <string name="answer1.3.1">Flanders</string>
+    <string name="answer1.3.2">Jones</string>
+    <string name="answer1.3.3">McDonalds</string>
+    <string name="answer1.3.4">Millers</string>
+
+    <string name="question1.4">Which 1990s American children\'s animated television series features toddlers: Tommy, Chuckie, twins Phil and Lil and Angelica?</string>
+    <string name="answer1.4.1">Recess</string>
+    <string name="answer1.4.2">Pokemon</string>
+    <string name="answer1.4.3">Wild Thornberrys</string>
+    <string name="answer1.4.4">Rugrats</string>
+
+    <string name="question1.5">Which sport features in the 1989 film Field of dreams starring Kevin Costner?</string>
+    <string name="answer1.5.1">Basketball</string>
+    <string name="answer1.5.2">Football</string>
+    <string name="answer1.5.3">Cricket</string>
+    <string name="answer1.5.4">Baseball</string>
+
+    <string name="question1.6">If you were drinking wine from the Stellenbosch region what country would it be from?</string>
+    <string name="answer1.6.1">South America</string>
+    <string name="answer1.6.2">India</string>
+    <string name="answer1.6.3">South Africa</string>
+    <string name="answer1.6.4">Zimbabwe</string>
+
+    <string name="question1.7">Which dance move swept the internet in 2016, where the dancer simultaneously drops their head while raising their arm and elbow?</string>
+    <string name="answer1.7.1">Juju on the beat</string>
+    <string name="answer1.7.2">Dab</string>
+    <string name="answer1.7.3">Nae nae</string>
+    <string name="answer1.7.4">Shmurdah dance</string>
+
+    <string name="question1.8">Lara Croft is a fictional character from which video game franchise?</string>
+    <string name="answer1.8.1">Tomb Raider</string>
+    <string name="answer1.8.2">Need for speed</string>
+    <string name="answer1.8.3">Grand theft auto</string>
+    <string name="answer1.8.4">Tekken</string>
+
+    <string name="question1.9">Which Colombian drug Lord was known as \'El Patron\'?</string>
+    <string name="answer1.9.1">Grizelda Blanco</string>
+    <string name="answer1.9.2">Pablo Escobar</string>
+    <string name="answer1.9.3">Tony Montana</string>
+    <string name="answer1.9.4">Juan Ramirez</string>
+
+    <string name="question1.10"> Which mobile messaging service was created by Evan Spiegel, Bobby Murphy and Reggie Brown while still students at Stanford University?</string>
+    <string name="answer1.10.1">Twitter</string>
+    <string name="answer1.10.2">Instagram</string>
+    <string name="answer1.10.3">SnapScan</string>
+    <string name="answer1.10.4">SnapChat</string>
+
+    <string name="question2.1">The personality pictured below directed the award-winning movie \'Selma\' and produced acclaimed TV series \'Queen Sugar\', who is she?</string>
+    <string name="answer2.1.1">Shonda Rhimes</string>
+    <string name="answer2.1.2">Ava Duvernay</string>
+    <string name="answer2.1.3">Euzhan Palcy</string>
+    <string name="answer2.1.4">Gina Prince-Bythewood</string>
+
+
+    /*Question 2 questions and answers*/
+
+    <string name="question2.2">The Kardashian sisters pictured below are?</string>
+    <string name="answer2.2.1">Kim, Kendall, Kylie</string>
+    <string name="answer2.2.2">Kylie, Khloe,Kourtney</string>
+    <string name="answer2.2.3">Khloe, Kourtney, Kim</string>
+    <string name="answer2.2.4">Kendall, Kris, Kim</string>
+
+    <string name="question2.3">This personality hosts \'American idol\' and is a famed television and radio producer, who is he?</string>
+    <string name="answer2.3.1">Ryan Seacrest</string>
+    <string name="answer2.3.2">Tom Cruise</string>
+    <string name="answer2.3.3">Jay Leno</string>
+    <string name="answer2.3.4">Jerry Springer</string>
+
+    <string name="question2.4">Who plays Sasha Williams on the TV series \'The walking dead\'?</string>
+    <string name="answer2.4.1">Meagan Good</string>
+    <string name="answer2.4.2">Sanaa Lathan</string>
+    <string name="answer2.4.3">Kerri Washington</string>
+    <string name="answer2.4.4">Sonequa Martin</string>
+
+    <string name="question2.5">Actress Grace Gealey play which character on the Fox music series \'Empire\'??</string>
+    <string name="answer2.5.1">Camilla Marks</string>
+    <string name="answer2.5.2">Carol Holloway</string>
+    <string name="answer2.5.3">Cookie Lyon</string>
+    <string name="answer2.5.4">Anika Calhoun</string>
+
+    <string name="question2.6">The cast members pictured below are from which abc drama series?</string>
+    <string name="answer2.6.1">Grey\'s Anatomy</string>
+    <string name="answer2.6.2">Scandal</string>
+    <string name="answer2.6.3">How to get away with murder</string>
+    <string name="answer2.6.4">Once upon a time</string>
+
+    <string name="question2.7">This TV and radio personality hosts a show with the same title as her name, who is she?</string>
+    <string name="answer2.7.1">Whoopi Goldberg</string>
+    <string name="answer2.7.2">Wendy Williams</string>
+    <string name="answer2.7.3">Oprah Winfrey</string>
+    <string name="answer2.7.4">Raven Symone</string>
+
+    <string name="question2.8">The Westbrook sisters gained their fame from which social media site?</string>
+    <string name="answer2.8.1">Instagram</string>
+    <string name="answer2.8.2">Facebook</string>
+    <string name="answer2.8.3">Twitter</string>
+    <string name="answer2.8.4">Snapchat</string>
+
+
+    <string name="question2.9">Oprah Winfrey owns which television network?</string>
+    <string name="answer2.9.1">abc</string>
+    <string name="answer2.9.2">Oprah Winfrey Network (OWN)</string>
+    <string name="answer2.9.3">Harpo productions</string>
+    <string name="answer2.9.4">The Oprah Winfrey show</string>
+
+    <string name="question2.10">The T.V personalities pictured below host which daytime talk show ?</string>
+    <string name="answer2.10.1">Real Talk</string>
+    <string name="answer2.10.2">The Talk</string>
+    <string name="answer2.10.3">The View</string>
+    <string name="answer2.10.4">The Real</string>
+
+
+    /*Question 3 questions and answers*/
+    <string name="question3.1">What is Theophilus London\'s middle name</string>
+    <string name="answer3.1.1">John</string>
+    <string name="answer3.1.2">Musa</string>
+    <string name="answer3.1.3">James</string>
+    <string name="answer3.1.4">Prince</string>
+
+    <string name="question3.2">The singer songwriter pictured below wrote Rihanna\'s \'Diamonds\' and sings \'Chandelier\' who is she?</string>
+    <string name="answer3.2.1">Kylie Minogue</string>
+    <string name="answer3.2.2">Nelly Furtado</string>
+    <string name="answer3.2.3">Sia Furler</string>
+    <string name="answer3.2.4">Sza</string>
+
+    <string name="question3.3">What is the name of Beyonce\'s latest album</string>
+    <string name="answer3.3.1">Lemonade</string>
+    <string name="answer3.3.2">Strawberries</string>
+    <string name="answer3.3.3">Lemon sauce</string>
+    <string name="answer3.3.4">Hot sauce</string>
+
+    <string name="question3.4">What is the opening line in Chris Brown\'s \'Fine by me\' ?</string>
+    <string name="answer3.4.1">She never stays to watch the night turn to day...</string>
+    <string name="answer3.4.2">She\'s like the wind, she comes and goes and again...</string>
+    <string name="answer3.4.3">She only loves me when the lights are off, lights are off...</string>
+    <string name="answer3.4.4">She doesn\'t call before midnight, if at all...</string>
+
+    <string name="question3.5">Rapper French Montana is originally from which African country</string>
+    <string name="answer3.5.1">Algeria</string>
+    <string name="answer3.5.2">Nigeria</string>
+    <string name="answer3.5.3">South Africa</string>
+    <string name="answer3.5.4">Morocco</string>
+
+    <string name="question3.6">What is the name of Nicki Minaj\'s latest album?</string>
+    <string name="answer3.6.1">The pink album</string>
+    <string name="answer3.6.2">The imprint</string>
+    <string name="answer3.6.3">The Pinkprint</string>
+    <string name="answer3.6.4">The print</string>
+
+    <string name="question3.7">Kanye West\'s third studio album was called?</string>
+    <string name="answer3.7.1">808s and heartbreaks</string>
+    <string name="answer3.7.2">Graduation</string>
+    <string name="answer3.7.3">Yeezus</string>
+    <string name="answer3.7.4">The life of Pablo</string>
+
+    <string name="question3.8">The Westbrook sisters gained their fame from which social media site?</string>
+    <string name="answer3.8.1">Instagram</string>
+    <string name="answer3.8.2">Facebook</string>
+    <string name="answer3.8.3">Twitter</string>
+    <string name="answer3.8.4">Snapchat</string>
+
+    <string name="question3.9">Oprah Winfrey owns which television network?</string>
+    <string name="answer3.9.1">abc</string>
+    <string name="answer3.9.2">Oprah Winfrey Network (OWN)</string>
+    <string name="answer3.9.3">Harpo productions</string>
+    <string name="answer3.9.4">The Oprah Winfrey show</string>
+
+    <string name="question3.10">The T.V personalities pictured below host which daytime talk show ?</string>
+    <string name="answer3.10.1">Real Talk</string>
+    <string name="answer3.10.2">The Talk</string>
+    <string name="answer3.10.3">The View</string>
+    <string name="answer3.10.4">The Real</string>
+
+
+</resources>
